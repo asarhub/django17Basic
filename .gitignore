@@ -1,3 +1,4 @@
 db.sqlite3
 myproject_env
 *.pyc
+.env
